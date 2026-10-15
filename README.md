@@ -1,4 +1,4 @@
-# Ideová plán
+# Ideový plán
 
 ## Název hry: **Cloud Kingdom**
 
